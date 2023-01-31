@@ -1,4 +1,4 @@
-FROM thejmthon/jmub:slim-buster
+FROM mousakhaled/zrub:slim-buster
 
 RUN git clone https://github.com/mousakhaled/zrub.git /root/jmub
 
